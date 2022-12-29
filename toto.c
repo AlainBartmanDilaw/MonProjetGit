@@ -13,3 +13,12 @@ int MaNouvelleFonction()
 {
 	return 128;
 }
+
+int ReadTextFile()
+{
+	while(!eof(fichier))
+	{
+		line = readline();
+	}
+	return nbrline;
+}
