@@ -4,6 +4,10 @@ main()
 	return MaNouvelleFonction();
 }
 
+int testF()
+{
+	return 1;
+}
 
 int MaNouvelleFonction()
 {
