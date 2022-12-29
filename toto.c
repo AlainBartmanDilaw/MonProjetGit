@@ -22,3 +22,8 @@ int ReadTextFile()
 	}
 	return nbrline;
 }
+
+int Feature2()
+{
+	return 12;
+}
