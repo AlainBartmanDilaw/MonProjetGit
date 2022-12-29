@@ -1,6 +1,11 @@
 # Test premier fichier toto
 main()
 {
-	return 0;
+	return MaNouvelleFonction();
 }
 
+
+int MaNouvelleFonction()
+{
+	return 128;
+}
