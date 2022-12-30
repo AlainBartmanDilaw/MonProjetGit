@@ -6,5 +6,5 @@ main()
 
 int testF()
 {
-	return 3;
+	return 30;
 }
